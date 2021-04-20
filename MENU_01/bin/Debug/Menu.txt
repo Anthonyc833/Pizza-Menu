@@ -1,0 +1,4 @@
+MageritaPizza,15
+Lobster,60
+Coke,7
+Cake,15
